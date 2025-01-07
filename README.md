@@ -10,6 +10,11 @@ Portfolio Tracker is a web application designed to help users manage and track t
 - **Responsive Design**: Optimized for desktop and mobile devices.
 - **Backend API**: RESTful APIs built with Node.js and Express.
 
+## Screenshot
+
+![Screenshot 2025-01-07 142404](https://github.com/user-attachments/assets/af4dcc97-6b81-4aa2-a819-8165a768b34f)
+
+
 ## Tech Stack
 
 ### Frontend
