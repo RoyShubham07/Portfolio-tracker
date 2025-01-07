@@ -93,7 +93,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Alpha Vantage API](https://www.alphavantage.co/) for real-time stock data.
 - Inspiration from portfolio management tools.
-
----
-
-Feel free to customize this README based on additional features or specific instructions related to your project!
